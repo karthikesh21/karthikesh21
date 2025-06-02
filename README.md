@@ -3,11 +3,11 @@
 </a>
 
 # 🧑🏻‍💻 Hi, I'm Soma Karthikesh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
-<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Full+Stack+Developer;Machine+Learning+Engineer;Always+Innovating;Nice+To+Meet+You+...">
+<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Full+Stack+Developer;Always+Innovating;Nice+To+Meet+You+...">
 
 **`Full Stack Developer | Machine Learning Engineer`**
 
-Hello, I'm Soma Karthikesh – a dynamic tech enthusiast with an unyielding passion for innovation and code. Currently in my third year at KMIT, where I’m pursuing a BTech in AI & ML, I thrive on transforming complex challenges into creative solutions. My journey in the tech world is fueled by curiosity, continuous learning, and a drive to push boundaries. I embrace every opportunity to explore new technologies and milestones, one line of code at a time.
+Hello, I'm Soma Karthikesh – a dynamic tech enthusiast with an unyielding passion for innovation and code. Currently in my final year at SPEC, where I’m pursuing a BTech in IT, I thrive on transforming complex challenges into creative solutions. My journey in the tech world is fueled by curiosity, continuous learning, and a drive to push boundaries. I embrace every opportunity to explore new technologies and milestones, one line of code at a time.
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <p align="left"> 
