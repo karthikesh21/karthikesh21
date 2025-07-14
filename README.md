@@ -37,14 +37,6 @@ Hello, I'm Soma Karthikesh – a dynamic tech enthusiast with an unyielding pass
 <a href="https://www.instagram.com/soma_karthikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthikesh21" height="30" width="40" /></a>
 </p>
 
-
-
-
-<br>
-
-
-
-
 ### 🧰 Languages and Tools:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
