@@ -41,9 +41,7 @@ Hello, I'm Soma Karthikesh – a dynamic tech enthusiast with an unyielding pass
 
 
 <br>
-<img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikesh21" alt="karthikesh21" /></a> </p>
 
 
 
